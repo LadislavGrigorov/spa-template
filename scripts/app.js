@@ -6,7 +6,8 @@
             jquery: 'libs/jquery-2.1.1',
             mustache: 'libs/mustache',
             q: 'libs/q',
-            sammy: 'libs/sammy'
+            sammy: 'libs/sammy',
+			underscore: 'libs/underscore'
         }
     });
 
